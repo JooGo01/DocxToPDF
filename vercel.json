@@ -8,8 +8,9 @@
     ],
     "routes": [
         {
-            "src": "./routes/indexRoute.js",
-            "dest": "/"
+            "src": "/",
+            "dest": "/src/index.js",
+            "methods": ["GET"]
         }
     ]
   }
