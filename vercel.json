@@ -6,7 +6,7 @@
             "use": "@vercel/node"
         }
     ],
-    "public":"true",
+    "public": true,
     "routes": [
         {
             "src": "/(.*)",
